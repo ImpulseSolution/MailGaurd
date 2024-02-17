@@ -65,3 +65,6 @@ Choose from a wide range of fonts, including custom fonts and Google Fonts, to p
 # Sponsor Project
 
 MailGaurd is a free project dedicated to providing robust email protection against spam. Your sponsorship plays a crucial role in helping us maintain and improve MailGaurd, ensuring that it remains a reliable and effective solution for users worldwide.
+
+[PayPal:](https://www.paypal.com/paypalme/paypulse)
+[BuyMeCoffee](https://www.buymeacoffee.com/dearmosin)
