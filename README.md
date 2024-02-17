@@ -17,7 +17,7 @@ https://mailgaurd.com/protect?id=51603908&color=1763e9&size=42&y=-30
 
 https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=1763e9&size=42&y=-30
 
-https://mailgaurd.com/protect?text=hello@MailGaurd.com&font=Roboto&color=ffffff&bg=1763e9&size=42&x=-4&y=-25&p=5
+https://mailgaurd.com/protect?text=hello@MailGaurd.com&font=Roboto&color=ffffff&bg=000000&size=42&x=-4&y=-25&p=5
 
 #### Example URL Output
 
