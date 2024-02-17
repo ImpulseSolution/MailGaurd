@@ -15,13 +15,13 @@ The MailGaurd API allows you to dynamically generate images with customizable te
 
 https://mailgaurd.com/protect?id=51603908&color=1763e9&size=42&y=-30
 
-https://mailgaurd.com/protect?text=hello@mailgaurd.com&color=1763e9&size=42&y=-30
+https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&size=42&y=-30
 
 #### Example URL Output
 
 ![MailGaurd Email](https://mailgaurd.com/protect?id=51603908&color=1763e9&size=42&y=-30)
 
-![MailGaurd Email](https://mailgaurd.com/protect?text=hello@mailgaurd.com&color=1763e9&size=42&y=-30)
+![MailGaurd Email](https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&size=42&y=-30)
 
 
 ## Parameters
