@@ -28,7 +28,7 @@ Example with Background Color
 ![MailGaurd Email](https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&size=42&y=-30)
 
 Example with Google Font
-![MailGaurd Email](https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&size=42&y=-30)
+![MailGaurd Email](https://mailgaurd.com/protect?text=hello@MailGaurd.com&font=Roboto&color=ffffff&bg=1763e9&size=42&x=-4&y=-25&p=5)
 
 
 ## Parameters
