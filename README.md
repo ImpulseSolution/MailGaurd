@@ -15,12 +15,19 @@ The MailGaurd API allows you to dynamically generate images with customizable te
 
 https://mailgaurd.com/protect?id=51603908&color=1763e9&size=42&y=-30
 
-https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&size=42&y=-30
+https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=1763e9&size=42&y=-30
+
+https://mailgaurd.com/protect?text=hello@MailGaurd.com&font=Roboto&color=ffffff&bg=1763e9&size=42&x=-4&y=-25&p=5
 
 #### Example URL Output
 
+Example with Transparent Background
 ![MailGaurd Email](https://mailgaurd.com/protect?id=51603908&color=1763e9&size=42&y=-30)
 
+Example with Background Color
+![MailGaurd Email](https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&size=42&y=-30)
+
+Example with Google Font
 ![MailGaurd Email](https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&size=42&y=-30)
 
 
@@ -32,7 +39,7 @@ https://mailgaurd.com/protect?text=hello@MailGaurd.com&color=ffffff&bg=000000&si
 | quality   | Image quality for JPEG output. Integer between 1 and 100. |
 | id        | ID of the email. If provided, fetches email address from the database. |
 | text      | Text to be displayed on the image. Default: MailGaurd. |
-| font      | Font file path or Google font name. |
+| font      | Google font name, case sensitive space replaced with +. |
 | size      | Font size in points. |
 | width     | Image width in pixels. |
 | height    | Image height in pixels. |
