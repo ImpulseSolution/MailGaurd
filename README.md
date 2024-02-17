@@ -5,7 +5,7 @@ YOUR ULTIMATE SHIELD AGAINST UNWANTED EMAILS!
 
 MailGaurd converts email addresses into images, making them unreadable by email scraping bots or automated programs used by spammers and marketing agencies. This helps in protecting email addresses from being harvested and used for spam or marketing purposes.
 
-[Visit Project:](https://mailgaurd.com)
+[Visit Project](https://mailgaurd.com)
 
 ### MailGaurd API Documentation
 
@@ -84,5 +84,6 @@ Choose from a wide range of fonts, including custom fonts and Google Fonts, to p
 
 MailGaurd is a free project dedicated to providing robust email protection against spam. Your sponsorship plays a crucial role in helping us maintain and improve MailGaurd, ensuring that it remains a reliable and effective solution for users worldwide.
 
-[PayPal:](https://www.paypal.com/paypalme/paypulse)
+[PayPal](https://www.paypal.com/paypalme/paypulse)
+
 [BuyMeCoffee](https://www.buymeacoffee.com/dearmosin)
